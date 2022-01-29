@@ -1,5 +1,5 @@
 #include<stdio.h>
 int mian()
 {
-printf("1")
+printf("hello world")
 }
